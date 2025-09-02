@@ -43,4 +43,4 @@ Recruitment Planning: Insights assist in forecasting hiring needs by role and de
 Employee Well-being: Understanding satisfaction trends allows companies to improve employee experience.
 
 7. Screenshots / Demo
-Here’s a preview of the dashboard:
+Here’s a preview of the dashboard:![Dashboard Preview](https://github.com/prathampvv/HR-Analytics-Dashboard/blob/main/Screenshot%20of%20dashboard.png) 
